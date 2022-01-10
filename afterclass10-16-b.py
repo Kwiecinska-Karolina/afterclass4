@@ -1,0 +1,18 @@
+from af16 import Ebook
+
+eb1=Ebook("Nigdy","Ken Follett",736,0)
+eb1.open_ebook()
+eb1.ebook_status()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.ebook_status()
+eb1.close_ebook()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.next_page()
+eb1.ebook_status()
