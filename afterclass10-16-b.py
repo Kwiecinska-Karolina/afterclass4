@@ -1,4 +1,4 @@
-from af16 import Ebook
+from afterclass1016 import Ebook
 
 eb1=Ebook("Nigdy","Ken Follett",736,0)
 eb1.open_ebook()
