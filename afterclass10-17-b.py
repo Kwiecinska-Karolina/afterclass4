@@ -1,4 +1,4 @@
-from af17 import Thermometer
+from afterclass1017 import Thermometer
 
 tr=Thermometer()
 tr.Thermometer_on()
